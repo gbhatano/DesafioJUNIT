@@ -1,1 +1,1 @@
-Essa pasta deve ser apenas usada para os testes
+Essa pasta deve ser usada somente para guardar casos e resultados de testes.
